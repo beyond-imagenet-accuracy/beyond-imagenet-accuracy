@@ -1,0 +1,11 @@
+datasets==2.13.0
+easyrobust
+imagenet_x==0.0.7
+git+https://github.com/modestyachts/ImageNetV2_pytorch
+numpy==1.23.5
+open_clip_torch==2.20.0
+pandas==1.5.3
+timm
+torch==2.1.0
+torchvision==0.16.0
+tqdm==4.64.1
